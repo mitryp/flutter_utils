@@ -1,7 +1,7 @@
 name: test_utils
 description: A test utils bundle written by @mitryp to be used in his packages.
-version: 0.0.1
-repository: https://github.com/mitryp/test_utils
+version: 0.0.2
+repository: https://github.com/mitryp/flutter_utils/tree/master/packages/test_utils
 
 environment:
   sdk: ^3.0.6

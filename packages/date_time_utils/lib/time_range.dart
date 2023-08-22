@@ -1,1 +1,1 @@
-export 'src/domain/time_range.dart' show TimeRange;
+export 'src/time_range.dart' show TimeRange;

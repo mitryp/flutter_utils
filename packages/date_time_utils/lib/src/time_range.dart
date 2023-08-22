@@ -2,7 +2,7 @@ import 'package:comparators/comparators.dart';
 import 'package:comparators/extensions.dart';
 import 'package:flutter/material.dart';
 
-import '../utils/time_of_day_utils.dart';
+import 'utils/time_of_day_utils.dart';
 
 /// A class representing a range of time between the [from] and the [to], inclusive.
 class TimeRange implements Comparable<TimeRange> {

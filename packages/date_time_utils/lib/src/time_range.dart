@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'utils/time_of_day_utils.dart';
 
-/// A class representing a range of time between the [from] and the [to], inclusive.
+/// A class representing a range of time between the [from] (inclusive) and [to] (exclusive).
 class TimeRange implements Comparable<TimeRange> {
   /// A starting time of this range, inclusive.
   final TimeOfDay from;

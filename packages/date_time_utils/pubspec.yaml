@@ -1,6 +1,6 @@
 name: date_time_utils
 description: A bundle of utils related to `DateTime` and `TimeOfDay`.
-version: 0.0.1
+version: 0.0.2
 homepage:
   https://github.com/mitryp/flutter_utils
 
@@ -11,8 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  comparators:
-    git: https://github.com/mitryp/comparators
+  comparators: ^1.0.0
 
 dev_dependencies:
   flutter_test:
